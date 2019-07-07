@@ -1,4 +1,4 @@
-import app from "./app";
+import app from './app';
 
-//Port
+// Port
 app.listen(3333);
